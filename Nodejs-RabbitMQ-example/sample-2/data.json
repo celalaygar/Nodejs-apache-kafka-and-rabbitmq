@@ -1,0 +1,52 @@
+[
+    {
+        "color": "red",
+        "type": "system",
+        "value": "#f00"
+    },
+    {
+        "color": "dark red",
+        "type": "system",
+        "value": "#a00"
+    },
+    {
+        "color": "green",
+        "type": "system",
+        "value": "#0f0"
+    },
+    {
+        "color": "dark green",
+        "type": "system",
+        "value": "#0a0"
+    },
+    {
+        "color": "blue",
+        "type": "network",
+        "value": "#00f"
+    },    
+    {
+        "color": "dark blue",
+        "type": "network",
+        "value": "#00a"
+    },
+    {
+        "color": "cyan",
+        "type": "network",
+        "value": "#0ff"
+    },
+    {
+        "color": "magenta",
+        "type": "system",
+        "value": "#f0f"
+    },
+    {
+        "color": "yellow",
+        "type": "network",
+        "value": "#ff0"
+    },
+    {
+        "color": "black",
+        "type": "system",
+        "value": "#000"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "color": "red",
+        "type": "system",
+        "value": "#f00"
+    },
+    {
+        "color": "green",
+        "type": "system",
+        "value": "#0f0"
+    },
+    {
+        "color": "blue",
+        "type": "network",
+        "value": "#00f"
+    },
+    {
+        "color": "cyan",
+        "type": "network",
+        "value": "#0ff"
+    },
+    {
+        "color": "magenta",
+        "type": "system",
+        "value": "#f0f"
+    },
+    {
+        "color": "yellow",
+        "type": "network",
+        "value": "#ff0"
+    },
+    {
+        "color": "black",
+        "type": "system",
+        "value": "#000"
+    }
+]

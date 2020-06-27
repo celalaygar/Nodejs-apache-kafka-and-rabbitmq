@@ -1,0 +1,14 @@
+{
+  "name": "apache-kafka",
+  "version": "1.0.0",
+  "description": "docker run --name zookeeper -p 2181:2181 zookeeper",
+  "main": "topic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^1.12.0"
+  }
+}

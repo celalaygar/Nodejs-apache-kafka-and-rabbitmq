@@ -1,0 +1,15 @@
+{
+  "name": "rapidmq-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publisher" :"node publisher.js",
+    "consumer" :"node consumer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.6"
+  }
+}
