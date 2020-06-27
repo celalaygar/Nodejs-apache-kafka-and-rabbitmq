@@ -1,5 +1,5 @@
-## Javascript & Apache Kafka And Javascript & RabbitMQ Example
-### Javascript and Apache Kafka
+## Node js & Apache Kafka And Node js  & RabbitMQ Example
+### Node js  and Apache Kafka
 Docker Commands
 ``` 
 docker run --name zookeeper -p 2181:2181 zookeeper
@@ -18,7 +18,7 @@ Node
 npm init
 npm install --save kafkajs
 ``` 
-### Javascript and RabbitMQ
+### Node js  and RabbitMQ
 Docker Commands
 ``` 
 docker run -d --hostname my-rabbit --name some-rabbit -p 5672:5672 -p 15672:15672 rabbitmq:3-management

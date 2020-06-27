@@ -1,4 +1,4 @@
-### Javascript and Apache Kafka
+### Node js and Apache Kafka
 Docker Commands
 
 ``` 
